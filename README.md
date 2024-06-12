@@ -13,6 +13,7 @@ GET      /api/movies/:id<br>
 PUT      /api/movies/:id<br>
 DELETE   /api/movies/:id
 
+```
 
 ### Clone the repository:
 git clone https://github.com/your-username/movie-details-api.git<br>
