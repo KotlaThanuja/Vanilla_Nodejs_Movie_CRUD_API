@@ -2,8 +2,10 @@
 
 **Routes**
 
-`GET      /api/movies`
-`POST     /api/movies`
-GET      /api/movies/:id
-PUT      /api/movies/:id
+`GET      /api/movies<br>
+POST     /api/movies<br>
+GET      /api/movies/:id<br>
+PUT      /api/movies/:id<br>
 DELETE   /api/movies/:id`
+
+`
