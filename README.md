@@ -8,9 +8,9 @@ This project implements a Movie Details Management API using Node.js. The API al
 
 ```
 GET      /api/movies
-POST     /api/movies<br>
-GET      /api/movies/:id<br>
-PUT      /api/movies/:id<br>
+POST     /api/movies
+GET      /api/movies/:id
+PUT      /api/movies/:id
 DELETE   /api/movies/:id
 
 ```
