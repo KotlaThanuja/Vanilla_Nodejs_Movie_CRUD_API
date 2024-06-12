@@ -1,6 +1,7 @@
 # Vanilla_Nodejs_Movie_CRUD_API
 
 **Routes**
+
 GET      /api/movies
 POST     /api/movies
 GET      /api/movies/:id
