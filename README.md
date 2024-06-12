@@ -2,6 +2,7 @@
 
 **Routes**
 
+```
 GET      /api/movies<br>
 POST     /api/movies<br>
 GET      /api/movies/:id<br>
