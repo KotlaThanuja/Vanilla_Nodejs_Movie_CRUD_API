@@ -15,8 +15,13 @@ DELETE   /api/movies/:id
 
 ```
 
-### Clone the repository:
-git clone https://github.com/your-username/movie-details-api.git<br>
-cd movie-details-api
+### Install dependencies:
+npm install
+
+### Start the server:
+npm start
+
+
+
 
 
